@@ -1,1 +1,2 @@
-# sgushonka-work
+# sgushonka-work(Урок 00b: учусь работать с терминалом)
+
